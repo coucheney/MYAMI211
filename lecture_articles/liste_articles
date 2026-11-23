@@ -1,0 +1,19 @@
+# Jeux simultanés
+1*: Voronoi Games (jeu de placement sur un graphe, jusqu'à section 4 incluse)
+2*: buck passing game (jeu de la patate chaude, jusqu'à section 3 incluse)
+3*: Calcul d'équilibre de Nash par l'algorithme de Lemke-Howson (calcul d'équilibre par l'algorithme de pivot de Lemke Howson, jusqu'à section 2.4 incluse)
+4: Problème du mariage stable (affectation à partir de préférences)
+5*: Résultats de complexité sur les équilibres de Nash (jusqu'à la section 2 incluse)
+6*: congestion game with capacities (jeux de congestion avec des capacités sur les arcs, jusqu'à la section 5 incluse)
+7: mécanismes de vote: section 9.2 du livre
+8: mécanismes d'enchères: section 9.3 du livre
+
+# MDP
+9*: Introduction to Stochastic Dynamic Programming, chapitre 4 page 75 du pdf (jeu de casino, jusqu'à section 2 incluse)
+10: Postdoc problem (variante du problème du secrétaire)
+11: Optimal parking (quand faut-il se garer quand une place est libre?)
+
+# Jeux combinatoires
+12*: fractal et jeux de Nim avec contraintes (jusqu'à section 3 incluse)
+13*: variation sur les jeux de Nim 
+14: jeu d'Hex (jeu combinatoire avec vol de stratégie, jusqu'à section 4 incluse)
